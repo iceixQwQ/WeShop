@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2526336 */
+  src: url('iconfont.woff2?t=1620186263504') format('woff2'),
+       url('iconfont.woff?t=1620186263504') format('woff'),
+       url('iconfont.ttf?t=1620186263504') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favorites_fill:before {
+  content: "\e63d";
+}
+
+.icon-favorites:before {
+  content: "\e63e";
+}
+
+.icon-huiyuan:before {
+  content: "\e601";
+}
+
+.icon-quanbufenlei:before {
+  content: "\e602";
+}
+
+.icon-cuxiao:before {
+  content: "\e603";
+}
+
+.icon-huiyuanjingxuan:before {
+  content: "\e606";
+}
+
+.icon-biaoxingfill:before {
+  content: "\e732";
+}
+
+.icon-biaoxing:before {
+  content: "\e733";
+}
+
+.icon-dianpufill:before {
+  content: "\e735";
+}
+
+.icon-dianpu:before {
+  content: "\e736";
+}
+
+.icon-dingdan:before {
+  content: "\e737";
+}
+
+.icon-fenxiang:before {
+  content: "\e739";
+}
+
+.icon-gouwuchefill:before {
+  content: "\e73c";
+}
+
+.icon-gouwuche:before {
+  content: "\e73d";
+}
+
+.icon-kefufill:before {
+  content: "\e740";
+}
+
+.icon-kefu:before {
+  content: "\e741";
+}
+
+.icon-yonghufill:before {
+  content: "\e787";
+}
+
+.icon-yonghu:before {
+  content: "\e788";
+}
+
